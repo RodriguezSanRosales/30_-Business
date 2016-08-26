@@ -122,3 +122,9 @@ footer {
 }
 
 } */
+
+.fondoCont {
+	background-image: url(../img/large.jpg);
+	background-size: 100% 100%;
+
+}
