@@ -1,6 +1,91 @@
-.circuloIcon {
+/*header*/
+.imgHeader {
+	background-image: url(../image/large.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 650px;
+}
+.fondoBlack {
+	background-color: rgba(0,0,9,0.4);
+	height: 650px;
+}
+.logo {
+	width: 50%;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+/*boton*/
+button {
+	border: solid white 2px;
+	background-color: transparent;
+	color: white;
+	padding: 2%;
+}
+/*fondo*/
+.fondoBlue {
+	
+	background-color:rgba(78,127,184,0.6);
+	height: 123px;
+	margin-top: 14%;
+	color: white;
+	padding: 2%;
+	
+} 
+.aco {
+	background-color: rgb(78,127,184)!important;
+	height: 123px;
 
 }
-.fondoImgQuie {
-	
+h3, .bigBlue {
+	color: #58ACFA;
+	font-size: 250%;
+}
+.tam {
+	font-size: 150% !important;
+}
+h2 {
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    font-size: 400% !important;
+}
+.textBig {
+	font-size: 170%;
+}
+/*img*/
+.imgUser {
+	width: 50%;
+	height: auto;
+}
+.sepImg {
+	background-image: url(../image/separador.png);
+	background-size: 100%;
+	height: 100px;
+	padding: 0;
+	margin: 0;
+
+}
+hr {
+	border: solid #D8D8D8 1px;
+}
+.circuloIcon {
+    border-radius: 50%;
+    border: solid 1px #D8D8D8;
+    padding: 12%;
+    width: 50%;
+    height: 150px;
+}
+.icoTam {
+	font-size: 450%;
+}
+/*footer*/
+footer {
+	background-color: #08088A;
+	color: white;
+	padding: 3%;
+}
+.tamIco {
+	font-size: 250%;
 }
